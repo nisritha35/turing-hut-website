@@ -1,0 +1,99 @@
+{
+    "syllabus": [
+      {
+        "topic": "Introduction to Competitive Programming",
+        "concept": [
+          {
+            "title": "Workshop Day-1",
+            "blogLink": "",
+            "videoLink": "https://youtu.be/NHT0Ens23y4?si=jTW6QiyTqPavtKA1"
+          },
+          {
+            "title": "Workshop Day-2",
+            "blogLink": "",
+            "videoLink": "https://youtu.be/NniAKmzcEAk?si=y43loU4ORuh287R_"
+          }
+        ],
+        "problems": [
+          {
+            "title": "Exxample Problem-1",
+            "practiceLink": "",
+            "textEditorial":"",
+            "videoEditorial":"",
+            "icon": "",
+            "platform": "codeforces",
+            "difficulty": "Easy"
+          }
+        ]
+      },
+      {
+        "topic": "Introduction to STL",
+        "concept": [
+             {
+                "title": "Shifting to C++",
+                "blogLink": "",
+                "videoLink": ""
+             }
+        ],
+        "problems": [
+        ]
+      },
+      {
+        "topic": "Prefix and Suffix Sums",
+        "concept": [
+        ],
+        "problems": [
+        ]
+      },
+      {
+        "topic": "Modulo Arithmetic",
+        "concept": [
+        ],
+        "problems": [
+        ]
+      },
+      {
+        "topic": "Number Theory",
+        "concept": [
+        ],
+        "problems": [
+        ]
+      },
+      {
+        "topic": "Binary Search",
+        "concept": [
+        ],
+        "problems": [
+        ]
+      },
+      {
+        "topic": "Recursion and DP",
+        "concept": [
+        ],
+        "problems": [
+        ]
+      },
+      {
+        "topic": "Graphs",
+        "concept": [
+        ],
+        "problems": [
+        ]
+      },
+      {
+        "topic": "Trees",
+        "concept": [
+        ],
+        "problems": [
+        ]
+      },
+      {
+        "topic": "Advanced DSA",
+        "concept": [
+        ],
+        "problems": [
+        ]
+      }
+    ]
+  }
+  

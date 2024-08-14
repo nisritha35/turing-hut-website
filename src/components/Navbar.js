@@ -24,6 +24,7 @@ import GroupsIcon from "@mui/icons-material/Groups";
 import InfoIcon from "@mui/icons-material/Info";
 import LocalPhoneIcon from "@mui/icons-material/LocalPhone";
 import EmojiEventsIcon from "@mui/icons-material/EmojiEvents";
+import CalendarTodayRoundedIcon from '@mui/icons-material/CalendarTodayRounded';
 import { useLocation } from "@reach/router";
 import EmailOutlinedIcon from "@mui/icons-material/EmailOutlined";
 
@@ -54,6 +55,11 @@ const navItems = [
     text: "Contact",
     icon: <LocalPhoneIcon />,
     path: "/contact"
+  },
+  {
+    text: "Year Plan",
+    icon: <CalendarTodayRoundedIcon />,
+    path: "/yearplan"
   },
   {
     text: "Turing Cup",
