@@ -16,13 +16,49 @@
         ],
         "problems": [
           {
-            "title": "Exxample Problem-1",
-            "practiceLink": "",
+            "title": "Dynamic Range Minimum Queries",
+            "practiceLink": "https://cses.fi/problemset/task/1649",
             "textEditorial":"",
             "videoEditorial":"",
-            "icon": "",
+            "icon": "cses_icon.jpg",
+            "platform": "cses",
+            "difficulty": "Medium"
+          },
+          {
+            "title": "Iva and Pav",
+            "practiceLink": "https://codeforces.com/problemset/problem/1878/E",
+            "textEditorial":"",
+            "videoEditorial":"",
+            "icon": "codeforces_icon.jpg",
             "platform": "codeforces",
-            "difficulty": "Easy"
+            "difficulty": "Medium"
+          },
+          {
+            "title": "Xenia and Bit Operations",
+            "practiceLink": "https://codeforces.com/problemset/problem/339/D",
+            "textEditorial":"",
+            "videoEditorial":"",
+            "icon": "codeforces_icon.png",
+            "platform": "codeforces",
+            "difficulty": "Medium"
+          },
+          {
+            "title": "Hotel Queries",
+            "practiceLink": "https://cses.fi/problemset/task/1143",
+            "textEditorial":"",
+            "videoEditorial":"",
+            "icon": "cses_icon.png",
+            "platform": "cses",
+            "difficulty": "Medium"
+          },
+          {
+            "title": "Bitmanip Variation",
+            "practiceLink": "https://codeforces.com/problemset/problem/339/D",
+            "textEditorial":"",
+            "videoEditorial":"",
+            "icon": "codeforces_icon.png",
+            "platform": "codeforces",
+            "difficulty": "Medium"
           }
         ]
       },
@@ -36,6 +72,15 @@
              }
         ],
         "problems": [
+          {
+            "title": "Exxample Problem-1",
+            "practiceLink": "",
+            "textEditorial":"",
+            "videoEditorial":"",
+            "icon": "nisritha_2024.jpg",
+            "platform": "codeforces",
+            "difficulty": "Easy"
+          }
         ]
       },
       {
@@ -88,10 +133,116 @@
         ]
       },
       {
+        "topic": "Range Queries",
+        "concept": [
+        ],
+        "problems": [
+          {
+            "title": "Dynamic Range Minimum Queries",
+            "practiceLink": "https://cses.fi/problemset/task/1649",
+            "textEditorial":"",
+            "videoEditorial":"",
+            "icon": "cses_icon.jpg",
+            "platform": "cses",
+            "difficulty": "Medium"
+          },
+          {
+            "title": "Iva and Pav",
+            "practiceLink": "https://codeforces.com/problemset/problem/1878/E",
+            "textEditorial":"",
+            "videoEditorial":"",
+            "icon": "codeforces_icon.jpg",
+            "platform": "codeforces",
+            "difficulty": "Medium"
+          },
+          {
+            "title": "Xenia and Bit Operations",
+            "practiceLink": "https://codeforces.com/problemset/problem/339/D",
+            "textEditorial":"",
+            "videoEditorial":"",
+            "icon": "codeforces_icon.png",
+            "platform": "codeforces",
+            "difficulty": "Medium"
+          },
+          {
+            "title": "Hotel Queries",
+            "practiceLink": "https://cses.fi/problemset/task/1143",
+            "textEditorial":"",
+            "videoEditorial":"",
+            "icon": "cses_icon.png",
+            "platform": "cses",
+            "difficulty": "Medium"
+          },
+          {
+            "title": "Bitmanip Variation",
+            "practiceLink": "https://codeforces.com/problemset/problem/339/D",
+            "textEditorial":"",
+            "videoEditorial":"",
+            "icon": "codeforces_icon.png",
+            "platform": "codeforces",
+            "difficulty": "Medium"
+          }
+        ]
+      },
+      {
         "topic": "Advanced DSA",
         "concept": [
         ],
         "problems": [
+          {
+            "title": "Range Minimum Query With Point Updates",
+            "practiceLink": "https://cses.fi/problemset/task/1649",
+            "textEditorial":"",
+            "videoEditorial":"",
+            "icon": "codeforces_icon.png",
+            "platform": "cses",
+            "difficulty": "Easy"
+          },
+          {
+            "title": "Range Minimum Query With Point Updates",
+            "practiceLink": "https://cses.fi/problemset/task/1649",
+            "textEditorial":"",
+            "videoEditorial":"",
+            "icon": "cses_icon.png",
+            "platform": "cses",
+            "difficulty": "Easy"
+          },
+          {
+            "title": "Range Minimum Query With Point Updates",
+            "practiceLink": "https://cses.fi/problemset/task/1649",
+            "textEditorial":"",
+            "videoEditorial":"",
+            "icon": "codechef_icon.png",
+            "platform": "cses",
+            "difficulty": "Easy"
+          },
+          {
+            "title": "Range Minimum Query With Point Updates",
+            "practiceLink": "https://cses.fi/problemset/task/1649",
+            "textEditorial":"",
+            "videoEditorial":"",
+            "icon": "atcoder_icon.png",
+            "platform": "cses",
+            "difficulty": "Easy"
+          },
+          {
+            "title": "Range Minimum Query With Point Updates",
+            "practiceLink": "https://cses.fi/problemset/task/1649",
+            "textEditorial":"",
+            "videoEditorial":"",
+            "icon": "hackerrank_icon.png",
+            "platform": "cses",
+            "difficulty": "Easy"
+          },
+          {
+            "title": "Range Minimum Query With Point Updates",
+            "practiceLink": "https://cses.fi/problemset/task/1649",
+            "textEditorial":"",
+            "videoEditorial":"",
+            "icon": "gfg_icon.png",
+            "platform": "cses",
+            "difficulty": "Easy"
+          }
         ]
       }
     ]
